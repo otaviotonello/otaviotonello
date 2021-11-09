@@ -1,4 +1,12 @@
-### Olá! Eu sou o Otavio Tonello!! ✨
+### Olá!! ✨
+
+🌎 Me chamo Otavio Tonello. Sou desenvolvedor Java.
+
+🦄 Habilidades: HTML, CSS, JavaScript e Java.
+
+💼 Ferramentas: VSCode, Eclipse e Git e GitHub.
+
+💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
 
 <div>
   <a href="https://github.com/otaviotonello">
