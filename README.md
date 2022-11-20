@@ -5,9 +5,9 @@
   
 🌎 Sou estudante de T.I e desenvolvedor Java.
 
-🦄 Habilidades: HTML, CSS, JavaScript e Java.
+🦄 Habilidades: Java, Javascript, HTML, CSS
 
-💼 Ferramentas: VSCode, Eclipse e Git e GitHub.
+💼 Ferramentas: Intellij, Eclipse, VSCode, Git e GitHub.
 
 💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem!
   
